@@ -7,27 +7,31 @@ A few projects that I have worked on over the past few years are included on thi
 
 
 ### 🛠 &nbsp;My Tech Stack
-![AWS](https://img.shields.io/badge/AWS-05122A?logo=Amazon%20AWS)
+![AWS](https://img.shields.io/badge/AWS-AECBFA?logo=Amazon%20AWS)
 <br>
-![C++](https://img.shields.io/badge/C++-05122A?logo=C%2B%2B&logoColor=00599C)
+![C++](https://img.shields.io/badge/C++-AECBFA?logo=C%2B%2B&logoColor=00599C)
 <br>
-![CSS](https://img.shields.io/badge/CSS-05122A?logo=CSS3&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/CSS-AECBFA?logo=CSS3&logoColor=1572B6)
 <br>
-![HTML](https://img.shields.io/badge/HTML-05122A?logo=HTML5)
+![HTML](https://img.shields.io/badge/HTML-AECBFA?logo=HTML5)
 <br>
-![NoSQL](https://img.shields.io/badge/NoSQL-05122A?)
+![MacOS](https://img.shields.io/badge/MacOS-AECBFA?logo=apple)
 <br>
-![Python](https://img.shields.io/badge/Python-05122A?logo=python)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Flask](https://img.shields.io/badge/Flask-05122A?logo=flask)
-![NumPy](https://img.shields.io/badge/NumPy-05122A?logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-05122A?logo=pandas)
+![NoSQL](https://img.shields.io/badge/NoSQL-AECBFA?)
+<br>
+![PHP)](https://img.shields.io/badge/PHP-AECBFA?logo=php&logoColor=777BB4)
+<br>
+![Python](https://img.shields.io/badge/Python-AECBFA?logo=python)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Flask](https://img.shields.io/badge/Flask-AECBFA?logo=flask)
+![NumPy](https://img.shields.io/badge/NumPy-AECBFA?logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-AECBFA?logo=pandas)
 <br> 
-![JavaScript](https://img.shields.io/badge/JavaScript-05122A?logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-AECBFA?logo=javascript)
 <br>
-![R (Statistics)](https://img.shields.io/badge/R-05122A?logo=R&logoColor=276DC3)
+![R (Statistics)](https://img.shields.io/badge/R-AECBFA?logo=R&logoColor=276DC3)
 <br>
-![SQL](https://img.shields.io/badge/SQL-05122A?)
+![SQL](https://img.shields.io/badge/SQL-AECBFA?)
 <br>
-![Tableau](https://img.shields.io/badge/Tableau-05122A?logo=tableau&logoColor=E97627)
+![Tableau](https://img.shields.io/badge/Tableau-AECBFA?logo=tableau&logoColor=E97627)
 <br>
-![Windows](https://img.shields.io/badge/Windows-05122A?logo=windows&logoColor=0078D4)
+![Windows](https://img.shields.io/badge/Windows-AECBFA?logo=windows&logoColor=0078D4)
