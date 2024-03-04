@@ -7,7 +7,7 @@ A few projects that I have worked on over the past few years are included on thi
 
 
 ### 🛠 &nbsp;My Tech Stack
-![AWS](https://img.shields.io/badge/AWS-AECBFA?logo=Amazon%20AWS)
+![AWS](https://img.shields.io/badge/AWS-AECBFA?logo=Amazon%20AWS&logoColor=FF9900)
 <br>
 ![C++](https://img.shields.io/badge/C++-AECBFA?logo=C%2B%2B&logoColor=00599C)
 <br>
