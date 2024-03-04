@@ -17,7 +17,10 @@ A few projects that I have worked on over the past few years are included on thi
 <br>
 ![MacOS](https://img.shields.io/badge/MacOS-AECBFA?logo=apple)
 <br>
-![NoSQL](https://img.shields.io/badge/NoSQL-AECBFA?)
+![NoSQL](https://img.shields.io/badge/NoSQL-AECBFA?)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-AECBFA?logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-AECBFA?logo=redis)
+![Neo4j](https://img.shields.io/badge/Neo4j-AECBFA?logo=neo4j)
 <br>
 ![PHP)](https://img.shields.io/badge/PHP-AECBFA?logo=php&logoColor=777BB4)
 <br>
