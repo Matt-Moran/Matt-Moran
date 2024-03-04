@@ -6,7 +6,7 @@ Currently, I am tutoring software development and introductory classes with the 
 A few projects that I have worked on over the past few years are included on this page. Feel free to copy any code for your own usage.
 
 
-### 🛠 &nbsp;My Tech Stack
+### 🛠 &nbsp;Technologies I Have Used:
 ![AWS](https://img.shields.io/badge/AWS-AECBFA?logo=Amazon%20AWS&logoColor=FF9900)
 <br>
 ![C++](https://img.shields.io/badge/C++-AECBFA?logo=C%2B%2B&logoColor=00599C)
