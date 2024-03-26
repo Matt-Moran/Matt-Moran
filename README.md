@@ -13,6 +13,8 @@ A few projects that I have worked on over the past few years are included on thi
 <br>
 ![CSS](https://img.shields.io/badge/CSS-AECBFA?logo=CSS3&logoColor=1572B6)
 <br>
+![Git](https://img.shields.io/badge/Git-AECBFA?logo=Git&logoColor=F05032)
+<br>
 ![HTML](https://img.shields.io/badge/HTML-AECBFA?logo=HTML5)
 <br>
 ![MacOS](https://img.shields.io/badge/MacOS-AECBFA?logo=apple)
