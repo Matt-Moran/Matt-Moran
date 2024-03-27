@@ -1,5 +1,5 @@
 ### 👋 Welcome to my Page!
-Hello! My name is Matthew Moran and I am a rising 3rd year Computer Science student at Providence College. I have a strong passion for Software Development and Cybersecurity, and I am constantly seeking opportunities to expand my knowledge in these areas. 
+Hello! My name is Matthew Moran and I am a rising 3rd year Computer Science student at Providence College. I have a strong passion for Software Development, Data Science, and Cybersecurity, and I am constantly seeking opportunities to expand my knowledge in these areas. 
 
 Currently, I am tutoring software development and introductory classes with the Providence College Math and Computer Science Department. These classes work with Python and C++, enabling me to solidify my understanding of various concepts within these languages while simultaneously teaching them to others. I take pride in contributing to the growth of the CS community at my school, and I wish to do so for the rest of my time at Providence College. 
 
