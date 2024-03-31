@@ -38,7 +38,9 @@ A few projects that I have worked on over the past few years are included on thi
 <br>
 ![R (Statistics)](https://img.shields.io/badge/R-AECBFA?logo=R&logoColor=276DC3)
 <br>
-![SQL](https://img.shields.io/badge/SQL-AECBFA?)
+![SQL](https://img.shields.io/badge/SQL-AECBFA?)&nbsp;&nbsp;
+![->](https://img.shields.io/badge/---->-AECBFA?)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-AECBFA?logo=MySQL)
 <br>
 ![Tableau](https://img.shields.io/badge/Tableau-AECBFA?logo=tableau&logoColor=E97627)
 <br>
