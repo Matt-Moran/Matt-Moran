@@ -33,6 +33,7 @@ A few projects that I have worked on over the past few years are included on thi
 ![NumPy](https://img.shields.io/badge/NumPy-AECBFA?logo=numpy&logoColor=013243)
 ![Pandas](https://img.shields.io/badge/Pandas-AECBFA?logo=pandas&logoColor=150458)
 ![matplotlib](https://img.shields.io/badge/matplotlib-AECBFA?)
+![Tensorflow](https://img.shields.io/badge/tensorflow-AECBFA?logo=tensorflow)
 <br> 
 ![JavaScript](https://img.shields.io/badge/JavaScript-AECBFA?logo=javascript)
 <br>
