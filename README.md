@@ -3,6 +3,8 @@ Hello! My name is Matthew Moran and I am a rising 3rd year Computer Science stud
 
 Currently, I am tutoring software development and introductory classes with the Providence College Math and Computer Science Department. These classes work with Python and C++, enabling me to solidify my understanding of various concepts within these languages while simultaneously teaching them to others. I take pride in contributing to the growth of the CS community at my school, and I wish to do so for the rest of my time at Providence College. 
 
+This summer, I am excited to be interning with the Payment Integrity team at the Blue Cross and Blue Shield of Rhode Island.
+
 A few projects that I have worked on over the past few years are included on this page. Feel free to copy any code for your own usage.
 
 
