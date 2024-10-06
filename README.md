@@ -1,9 +1,7 @@
 ### 👋 Welcome to my Page!
-Hello! My name is Matthew Moran and I am a rising 3rd year Computer Science student at Providence College. I have a strong passion for Software Development, Data Science, and Cybersecurity, and I am constantly seeking opportunities to expand my knowledge in these areas. 
+Hello! My name is Matthew Moran and I am a 4th year Computer Science student at Providence College. I have a strong passion for Software Development and Data Science, and I am constantly seeking opportunities to expand my knowledge in these areas. 
 
-Currently, I am tutoring software development and introductory classes with the Providence College Math and Computer Science Department. These classes work with Python and C++, enabling me to solidify my understanding of various concepts within these languages while simultaneously teaching them to others. I take pride in contributing to the growth of the CS community at my school, and I wish to do so for the rest of my time at Providence College. 
-
-This summer, I am excited to be interning with the Payment Integrity team at the Blue Cross and Blue Shield of Rhode Island.
+Currently, I am interning with the Payment Integrity team at the Blue Cross and Blue Shield of Rhode Island. This has been an amazing start to my professional career. Not only have I strengthened my technical skills using Python, VBA, and Power BI, but I have also learned a great deal about the healthcare industry.
 
 A few projects that I have worked on over the past few years are included on this page. Feel free to copy any code for your own usage.
 
@@ -13,13 +11,7 @@ A few projects that I have worked on over the past few years are included on thi
 <br>
 ![C++](https://img.shields.io/badge/C++-AECBFA?logo=C%2B%2B&logoColor=00599C)
 <br>
-![CSS](https://img.shields.io/badge/CSS-AECBFA?logo=CSS3&logoColor=1572B6)
-<br>
 ![Git](https://img.shields.io/badge/Git-AECBFA?logo=Git&logoColor=F05032)
-<br>
-![HTML](https://img.shields.io/badge/HTML-AECBFA?logo=HTML5)
-<br>
-![MacOS](https://img.shields.io/badge/MacOS-AECBFA?logo=apple)
 <br>
 ![NoSQL](https://img.shields.io/badge/NoSQL-AECBFA?)&nbsp;&nbsp;
 ![->](https://img.shields.io/badge/---->-AECBFA?)&nbsp;&nbsp;
@@ -47,4 +39,3 @@ A few projects that I have worked on over the past few years are included on thi
 <br>
 ![Tableau](https://img.shields.io/badge/Tableau-AECBFA?logo=tableau&logoColor=E97627)
 <br>
-![Windows](https://img.shields.io/badge/Windows-AECBFA?logo=windows&logoColor=0078D4)
